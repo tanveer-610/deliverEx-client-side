@@ -1,0 +1,10 @@
+.login{
+    height: 100vh;
+    background-image: url("https://images.unsplash.com/photo-1617633756779-2d58eba4ae56?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=872&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.google-login{
+    background-color: rgba(0, 0, 0,0.7);
+    border-radius: 15px;
+}

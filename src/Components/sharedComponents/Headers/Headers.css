@@ -1,0 +1,21 @@
+.navLinks{
+    text-decoration: none;
+    color: white;
+    transition: 0.5s;
+}
+.navLinks:hover{
+    color: red;
+    transform: scale(1.1);
+}
+.login-btn{
+    color: white;
+    border: 2px solid #B8282F;
+    border-radius: 10px;
+    transition:0.5s;
+}
+.login-btn:hover{
+    color: white;
+    border: 2px solid #B8282F;
+    background-color:#B8282F;
+    transform: scale(1.1);
+}

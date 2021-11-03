@@ -1,0 +1,28 @@
+.footer-link{
+    color: white;
+    transition: 0.5s;
+}
+.footer-link:hover{
+    color: #B8282F;
+}
+
+/*Other links design  */
+.fa-facebook-square, .fa-youtube-square,.fa-whatsapp-square,.fa-envelope{
+    transition: 0.5s;
+}
+.fa-facebook-square:hover{
+    transform: scale(1.1);
+    color: skyblue;
+}
+.fa-youtube-square:hover{
+    transform: scale(1.1);
+    color: red;
+}
+.fa-whatsapp-square:hover{
+    transform: scale(1.1);
+    color: lightgreen;
+}
+.fa-envelope:hover{
+    transform: scale(1.1);
+    color: rgb(240, 109, 109);
+}
